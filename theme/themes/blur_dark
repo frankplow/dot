@@ -2,7 +2,9 @@
 
 # fonts
 export THEME_FONT_FAMILY="bitmap"
-export THEME_FONT_TEXT="ctrld"
+export THEME_FONT_TEXT="CtrlD"
+export THEME_FONT_SYMBOLS="Siji"
+export THEME_FONT_UNICODE="UW Ttyp0"
 export THEME_FONT_SIZE=10
 
 # colours
